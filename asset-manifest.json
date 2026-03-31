@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuRF3RkA.github.io/static/css/main.ab85b8a4.css",
+    "main.js": "/SuRF3RkA.github.io/static/js/main.709c1e58.js",
+    "static/js/488.e9191b0b.chunk.js": "/SuRF3RkA.github.io/static/js/488.e9191b0b.chunk.js",
+    "index.html": "/SuRF3RkA.github.io/index.html",
+    "main.ab85b8a4.css.map": "/SuRF3RkA.github.io/static/css/main.ab85b8a4.css.map",
+    "main.709c1e58.js.map": "/SuRF3RkA.github.io/static/js/main.709c1e58.js.map",
+    "488.e9191b0b.chunk.js.map": "/SuRF3RkA.github.io/static/js/488.e9191b0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab85b8a4.css",
+    "static/js/main.709c1e58.js"
+  ]
+}
