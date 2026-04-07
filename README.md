@@ -20,6 +20,8 @@ Skills: Learn about the technologies I'm most comfortable with. 🎯
 
 Contact: Got any questions or want to discuss collaboration? Get in touch with me! 📧🤝
 
+⚠️ Note: This website is still under construction, so some sections might not be fully complete yet.
+
 Why come back?
 
 This site is not just my portfolio – it's my experience, passion, and technology all rolled into one. I am always excited to share knowledge and take on new challenges that will help me grow. 🚀✨
