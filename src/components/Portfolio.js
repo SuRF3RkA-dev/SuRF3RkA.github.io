@@ -296,7 +296,7 @@ const graphicProjects = [
     icon: <FaInstagram size={40} />,
     category: "social-media",
     images: ['vrentis_post.png',
-      'Elitist_Cuts .png',
+      'Elitist_Cuts.png',
       'SpeedXpress_post.png',
       'flower_beauty.png'
     ],
@@ -463,7 +463,7 @@ const Portfolio = () => {
               {selectedProject.images.length > 0 && (
                 <div style={{ position: 'relative' }}>
                   <ModalImage 
-                    src={selectedProject.images[currentImageIndex]} 
+                    src={`/${selectedProject.images[currentImageIndex]}`}
                     alt={`${selectedProject.title} ${currentImageIndex + 1}`}
                   />
                   {selectedProject.images.length > 1 && (
@@ -574,7 +574,7 @@ const ProjectModal = ({ project, onClose }) => {
             {project.images.map((image, index) => (
               <img
                 key={index}
-                src={`/images/${image}`}
+                src={`/${image}`}
                 alt={`${project.title} ${index + 1}`}
                 style={{ width: `${100 / project.images.length}%` }}
               />
